@@ -1,0 +1,19 @@
+.color{
+    color: #646464;
+}
+.coloruno{
+    color: #f3dd3b;
+}
+body{
+    background-color: #ebebeb;
+}
+.card{
+    border-radius: 30px 30px 30px 30px;
+}
+.fondo{
+    background-image: url(../assets/img/fondo2.jpg);
+    background-attachment: contain;
+    background-position: center;
+	background-repeat: no-repeat;
+    margin-top:3%;
+}

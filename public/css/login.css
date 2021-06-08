@@ -1,0 +1,28 @@
+body{
+    background-image: url(../assets/img/fondo.jpg);
+    background-attachment: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	overflow: hidden;
+}
+.card{
+    width: 100%;
+}
+.carduno{
+    justify-content: center;
+    margin-top: -4px;
+}
+.color{
+    color: #646464;
+}
+.coloruno{
+    color: #f3dd3b;
+}
+.boton{
+    margin: auto !important;
+    width: 60%;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
